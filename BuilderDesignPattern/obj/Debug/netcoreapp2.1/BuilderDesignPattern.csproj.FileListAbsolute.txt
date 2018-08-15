@@ -1,0 +1,9 @@
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp2.1\BuilderDesignPattern.deps.json
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp2.1\BuilderDesignPattern.dll
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\netcoreapp2.1\BuilderDesignPattern.pdb
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.dll
+C:\Users\OMID\Source\Repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\netcoreapp2.1\BuilderDesignPattern.pdb

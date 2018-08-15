@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BuilderDesignPattern.Console/1.0.0": {
+        "dependencies": {
+          "BuilderDesignPattern": "1.0.0"
+        },
+        "runtime": {
+          "BuilderDesignPattern.Console.dll": {}
+        }
+      },
+      "BuilderDesignPattern/1.0.0": {
+        "runtime": {
+          "BuilderDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderDesignPattern.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuilderDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
